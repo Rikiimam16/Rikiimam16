@@ -1,7 +1,7 @@
-<h2 align="center">Hello World! I'm Rikz Coder 👋</h2>
+<h2 align="left">Hello World! I'm Rikz Coder 👋</h2>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0OTU0OGNlYmZ5OWd5Z2treHU0YWJwNHJlZDIxc3d1MHB6c2Y5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width=""/>
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0OTU0OGNlYmZ5OWd5Z2treHU0YWJwNHJlZDIxc3d1MHB6c2Y5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="400"/>
 </p>
 
 ## About Me
@@ -42,6 +42,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rikiimam16/Rikiimam16/output/pacman-contribution-graph-dark.svg">
