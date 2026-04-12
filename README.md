@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Rikz Coder 👋</h1>
+<h1 align="left">Hello! I'm Rikz Code 👋</h1>
 
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0OTU0OGNlYmZ5OWd5Z2treHU0YWJwNHJlZDIxc3d1MHB6c2Y5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="400"/>
